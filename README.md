@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Antonio Galeana González</h1>
 <h3 align="center">A passionate FrontEnd/BackEnd Developer from México</h3>
-<img align="right" alt="Coding" width="400" src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af">
-
+<img align="right" alt="Coding" width="500" src="https://preview.redd.it/05uhd2ihjs671.gif?width=1920&auto=webp&s=2cfe2e79dafaccd849f4d2b7f2622ea565c748af">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snipperplayer&label=Profile%20views&color=0e75b6&style=flat" alt="snipperplayer" /> </p>
 
