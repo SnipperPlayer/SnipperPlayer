@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Antonio Galeana González</h1>
 <h3 align="center">A passionate FrontEnd/BackEnd Developer from México</h3>
-<img align="right" alt="img1" width="400" src="https://i.gifer.com/758X.gif"> 
+<img align="right" alt="Coding" width="400" height="300" src="https://i.gifer.com/758X.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snipperplayer&label=Profile%20views&color=0e75b6&style=flat" alt="snipperplayer" /> </p>
 
